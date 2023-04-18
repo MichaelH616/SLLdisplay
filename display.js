@@ -35,5 +35,5 @@ class SLL{
 }
 
 let SL = new SLL()
-// console.log(SL.addFront(76).addFront(2).addFront(11.41))
+console.log(SL.addFront(76).addFront(2).addFront(11.41))
 console.log(SL.display())
